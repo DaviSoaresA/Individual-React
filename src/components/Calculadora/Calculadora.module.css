@@ -1,0 +1,28 @@
+.corpo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 60vh;
+}
+
+.entrada {
+  width: 350px;
+  height: 50px;
+  border-radius: 15px;
+}
+
+.botao {
+  width: 250px;
+  height: 45px;
+  border-radius: 20px;
+  background-color: #1343d4;
+  color: #a4f9c1;
+}
+
+.botao:hover{
+  cursor: pointer;
+  background-color: #1386d4;
+  color: #e4f9e4;
+}

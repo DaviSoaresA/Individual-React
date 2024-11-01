@@ -4,33 +4,10 @@
 }
 
 body{
-  margin: auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.cabecalho{
-  text-align: center;
-  font-size: 1.45em;
-  font-weight: bold;
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  width: 100%;
-  color: #a4b3c5;
-  background-color: gray;
-}
-
-.cabecalho > h1{
-  margin: auto;
-  padding: 10px;
-}
-
-.corpo{
+  margin: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  width: 50%;
-  height: 75vh;
-  background-color: #a4f9c1;
+  background-color: #000;
 }

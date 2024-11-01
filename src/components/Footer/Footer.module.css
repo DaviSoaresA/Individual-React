@@ -1,0 +1,12 @@
+.rodape{
+    margin-top: auto;
+    display: flex;
+    background-color: #c3c3c3;
+    color: #454545;
+    font-size: 1.15em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+}

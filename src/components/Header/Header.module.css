@@ -1,0 +1,13 @@
+.cabecalho {
+  text-align: center;
+  font-size: 1.45em;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 100%;
+  color: #a4b3c5;
+  background-color: gray;
+}
+
+.cabecalho > h1 {
+  margin: auto;
+  padding: 10px;
+}
